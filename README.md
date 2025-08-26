@@ -1,7 +1,8 @@
 # ComfyUI DP Ideogram Character Node
 
 A custom ComfyUI node pack for generating consistent character images using Ideogram API v3's character reference feature. Part of the Desert Pixel (DP) node collection.
-<img width="1254" height="580" alt="image" src="https://github.com/user-attachments/assets/1056bc4f-c8f1-433a-b59b-b5d3915a026e" />
+
+<img width="1254" height="580" alt="dxrthgft" src="https://github.com/user-attachments/assets/421e13e8-97a6-4b3b-ad17-a1b81c3dbd65" />
 
 ## 🌟 Features
 
@@ -267,3 +268,4 @@ Contributions are welcome! Please:
 
 
 Made with ❤️ for the ComfyUI community
+
