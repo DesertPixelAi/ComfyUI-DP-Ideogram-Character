@@ -147,8 +147,6 @@ If the "DP Ideogram Character" node doesn't appear in your ComfyUI node menu:
 - Specify camera angles and lighting
 - The AI will preserve facial features from reference
 
-
-
 ## 💰 Pricing
 
 Prices per image with character reference:
@@ -248,15 +246,6 @@ Contributions are welcome! Please:
 - Comprehensive security features
 - Production-ready with error handling
 
-## 📝 TODO
-
-- [ ] Add progress callback support
-- [ ] Implement caching for repeated generations
-- [ ] Add preset management
-- [ ] Support for style templates
-- [ ] WebSocket support for real-time updates
-- [ ] Add cost estimation before generation
-
 ## 🔗 Links
 
 - [Ideogram Website](https://ideogram.ai)
@@ -268,5 +257,6 @@ Contributions are welcome! Please:
 
 
 Made with ❤️ for the ComfyUI community
+
 
 
